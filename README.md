@@ -4,7 +4,7 @@
     This repository contains five milestone projects designed to test my skills and knowledge in various areas.
     <br/>
     <br/>
-    <a href="https://github.com/your-username/Milestone_Exam"><strong>Explore the Project »</strong></a>
+    <a href="https://github.com/Namratapatel9027/Milestone_Exam"><strong>Explore the Project »</strong></a>
     <br/>
     <br/>
     <a href="#"><strong>Visit the Website »</strong></a>
