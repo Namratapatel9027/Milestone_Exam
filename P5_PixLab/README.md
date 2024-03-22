@@ -38,7 +38,7 @@ Preview is now available in the __distribution (dist>output)__ folder.
 
 To view or contribute to the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/pixelab-business-website.git`
+1. Clone the repository: `git clone https://github.com/Namratapatel9027/P5_PixLab.git`
 2. Open the project in your preferred code editor.
 3. Launch the `index.html` file in your web browser.
 
