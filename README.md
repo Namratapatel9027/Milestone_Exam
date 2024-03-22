@@ -25,7 +25,7 @@
 ## About The Project
 
 
-This repository contains five milestone projects designed to test your skills and knowledge in various areas. Whether you're a beginner looking to hone your skills or an experienced developer seeking new challenges, these projects provide a valuable opportunity to practice and showcase your abilities.
+This repository contains five milestone projects, each designed to assess and showcase my skills in web development. Two of these projects are websites created using HTML and CSS, while the other three utilize Tailwind CSS for styling and layout.
 
 ## Built With
 
@@ -33,11 +33,11 @@ Frontend: HTML, CSS, TailwindCSS
 
 ## Projects
 
-1. Project 1: E-Guru Website Page Using HTML & CSS.
-2. Project 2: Hospital Landing Page Using HTML & CSS.
-3. Project 3: Bike Landing Page Using TailwindCSS.
-4. Project 4: NFT Landing Page Using TailwindCSS.
-5. Project 5: PixLab Landing Page Using TailwindCSS.
+1. Project 1(HTML/CSS): E-Guru Website Page.
+2. Project 2(HTML/CSS): Hospital Landing Page.
+3. Project 3(Tailwind CSS): Bike Landing Page.
+4. Project 4(Tailwind CSS): NFT Landing Page.
+5. Project 5(Tailwind CSS): PixLab Landing Page.
 
 ### Installation
 
